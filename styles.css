@@ -2,6 +2,25 @@ body {
     background-color: rgb(255, 255, 165);
 }
 
+.titulo{
+    text-align: center;
+}
+
+.caja-imagenes{
+    text-align: center;
+}
+
+.sub-titulo{
+    text-align: center;
+}
+
+.texto{
+    text-align: center;
+}
+
+.botones{
+    text-align: center;
+}
 .image{
     border: 5px solid green;
     border-radius: 10px;
